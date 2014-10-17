@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zoo:home|Door43 (zoo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zoo|d43-zoo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zoo/archive/master.zip|d43-zoo.zip]]
+
+**Recent Changes**
+{{changes>ns = zoo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zoo|Ethnologue data]]
+
